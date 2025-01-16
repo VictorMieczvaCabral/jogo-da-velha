@@ -1,6 +1,4 @@
-# myapp
-
-A new Flutter project.
+# jogo da velha
 
 ## Getting Started
 
